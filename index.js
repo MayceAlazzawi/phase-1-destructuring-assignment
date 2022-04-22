@@ -23,7 +23,7 @@ const nestedMuppet = {
   },
   nestedJob: 'Host of The Muppet Show',
   nestedPartner: 'Miss Piggy'
-};
+}
 
 // Strings
 
